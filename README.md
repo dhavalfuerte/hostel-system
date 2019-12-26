@@ -1,1 +1,1 @@
-# hostel-system
+# hostel-system-laravel
